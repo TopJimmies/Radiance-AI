@@ -22,8 +22,8 @@ Prerequisites
 Python 3.6+
 Pinecone API key
 OpenAI API key
-##Installation
-###Clone the repository:
+## Installation
+### Clone the repository:
 
 
 ```
