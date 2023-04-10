@@ -16,6 +16,7 @@ Radiance AI is designed for users who need to break down complex NLP tasks into 
 - Python 3.6+
 - Pinecone: 'pip install pinecone-client'
 - OpenAI: 'pip install openai'
+
 API Keys
 Make sure to set up your Pinecone and OpenAI API keys before running the script.
 
